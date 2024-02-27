@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OtDie
+- 👋 Hi, I’m @OttoDiekgerdes
 - 👀 I’m interested in Graphic Design, Languages, Chess and Sports.
 - 🌱 I’m currently learning more about how to use GSAP and Midjourney.
 
